@@ -1,7 +1,7 @@
-Don't forget to star the repo.
+
 Demo website : https://mern-social-media-sdp.herokuapp.com/
 # mern-social-media-complete-project
-A MERN stack based project on social media application. It is completely working project. Its' completely responsive application.
+A MERN stack based project on social media application. It is completely responsive application.
 MongoDB Express React Redux NodeJs are user in this project.
 
 # Featurs included in this project:
